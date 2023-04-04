@@ -2,6 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=vibinjk.com&style=for-the-badge&url=https%3A%2F%2Fvibinjk.com)](https://vibinjk.com)
 
+[![Vibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=viper25&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viper25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
