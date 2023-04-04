@@ -7,7 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viper25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Connect with me:
 
 [<img align="left" alt="vibinjk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vibinjk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
