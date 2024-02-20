@@ -1,4 +1,4 @@
-### Hi there, I'm Vibin - aka [viper25][website] 👋 
+### Hi there, I'm JK - aka [viper25][website] 👋 
 
 [![Website](https://img.shields.io/website?label=vibinjk.com&style=for-the-badge&url=https%3A%2F%2Fvibinjk.com)](https://vibinjk.com)
 
